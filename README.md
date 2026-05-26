@@ -116,4 +116,3 @@ Bright Yellow	Yellow
 Lemon	Yellow
 Mustard	Yellow
 Yellow	Yellow
-<img width="226" height="2785" alt="image" src="https://github.com/user-attachments/assets/4c8b916d-561e-4ce3-bbf1-1b4654235c30" />
